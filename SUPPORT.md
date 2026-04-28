@@ -4,7 +4,7 @@ Danke, dass du Bilando nutzt.
 
 ## Kontakt
 
-- E-Mail: `support@bilando.app`
+- E-Mail: `bkelesgames@outlook.de`
 - Antwortzeit: in der Regel innerhalb von 2 Werktagen
 
 ## Fehler melden

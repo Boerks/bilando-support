@@ -3,4 +3,4 @@
 Dieses Repository ist die öffentliche Support-Seite für die iOS-App **Bilando**.
 
 - Support-Seite: `SUPPORT.md`
-- Kontakt: `support@bilando.app`
+- Kontakt: `bkelesgames@outlook.de`
