@@ -2,6 +2,11 @@
 
 Stand: 28.04.2026
 
+## Verantwortliche Person
+
+- Name: Berkant Keles
+- E-Mail: `bkelesgames@outlook.de`
+
 ## Überblick
 
 Bilando ist ein Haushalts- und Finanzplaner. Die App ist auf eine datensparsame Nutzung ausgelegt.
@@ -25,6 +30,7 @@ Bilando ist ein Haushalts- und Finanzplaner. Die App ist auf eine datensparsame 
 
 Für Supportanfragen:
 
+- Ansprechpartner: Berkant Keles
 - E-Mail: `bkelesgames@outlook.de`
 
 Bitte sende bei technischen Problemen nur die Informationen, die zur Fehleranalyse nötig sind.

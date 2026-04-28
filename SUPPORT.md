@@ -4,6 +4,7 @@ Danke, dass du Bilando nutzt.
 
 ## Kontakt
 
+- Ansprechpartner: Berkant Keles
 - E-Mail: `bkelesgames@outlook.de`
 - Antwortzeit: in der Regel innerhalb von 2 Werktagen
 
