@@ -30,6 +30,8 @@ Bitte sende folgende Informationen mit:
 Bilando verarbeitet Finanzdaten primär lokal auf dem Gerät.
 Wenn iCloud aktiviert ist, werden Daten über das iCloud-Konto der Nutzerin/des Nutzers synchronisiert.
 
+- Datenschutz-URL: `https://github.com/Boerks/bilando-support/blob/main/PRIVACY.md`
+
 ## Language
 
 Support ist auf Deutsch und Englisch möglich.
